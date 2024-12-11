@@ -1,6 +1,6 @@
-                                       "Attrition is a silent killer for businesses. It disrupts operations, increases costs, and erodes morale".
+                      "Attrition is a silent killer for businesses. It disrupts operations, increases costs, and erodes morale".
 
-But what's causing employees to leave
+But what's causing employees to leave?
 
 ## Overview
 
