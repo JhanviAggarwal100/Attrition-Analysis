@@ -86,5 +86,5 @@ https://www.linkedin.com/in/jhanvi-aggarwal?utm_source=share&utm_campaign=share_
 - POWER BI
   
 #3 Skills
-- HR Strategy, Data Analysis, Case Analysis, Attrition Strategy
+- HR Strategy, Data Analysis, Case Analysis, Attrition Analysis
 
